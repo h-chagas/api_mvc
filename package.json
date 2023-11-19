@@ -1,0 +1,11 @@
+{
+  "name": "api_mvc",
+  "version": "1.0.0",
+  "description": "This is a RESTful API (Books) built with Node.js under MVC pattern, as well as Express.js and Postgres as database and Sequelize as ORM.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hugo Cidral das Chagas",
+  "license": "ISC"
+}
